@@ -10,7 +10,7 @@
 | **Year** | 2026 |
 | **Group** | U4125 |
 | **Author** | Kudelin Dmitry Igorevich |
-| **Lab** | Lab1 |
+| **Lab** | Lab2 |
 | **Date of create** | 05.05.2026 |
 | **Date of finished** | 05.05.2026 |
 
