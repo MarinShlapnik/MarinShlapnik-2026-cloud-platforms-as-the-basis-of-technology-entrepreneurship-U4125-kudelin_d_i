@@ -1,7 +1,18 @@
 # Лабораторная работа №2: Развертывание и управление сервисами в Google Cloud Run
 
-**Выполнил:** Дима (dimak)
-**Цель работы:** Изучить процесс контейнеризированного развертывания, мониторинга и управления трафиком в бессерверной среде Cloud Run.
+## Информация о работе
+
+| Параметр | Значение |
+|----------|----------|
+| **University** | ITMO University |
+| **Faculty** | FICT |
+| **Course** | Cloud platforms as the basis of technology entrepreneurship |
+| **Year** | 2026 |
+| **Group** | U4125 |
+| **Author** | Kudelin Dmitry Igorevich |
+| **Lab** | Lab1 |
+| **Date of create** | 05.05.2026 |
+| **Date of finished** | 05.05.2026 |
 
 ---
 
