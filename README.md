@@ -1,1 +1,1 @@
-# MarinShlapnik-2026-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-kudelin_d_i
+###МОИ ЛАБЫ
