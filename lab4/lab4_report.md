@@ -1,14 +1,18 @@
 # Лабораторная работа 4. Разработка инфраструктуры MVP AI приложения
 
-**University:** ITMO University  
-**Faculty:** FICT  
-**Course:** Cloud platforms as the basis of technology entrepreneurship  
-**Year:** 2025/2026  
-**Group:** U4125  
-**Author:** Alex  
-**Lab:** Lab 4  
-**Date of create:** 08.05.2026  
-**Date of finished:** 08.05.2026  
+## Информация о работе
+
+| Параметр | Значение |
+|----------|----------|
+| **University** | ITMO University |
+| **Faculty** | FICT |
+| **Course** | Cloud platforms as the basis of technology entrepreneurship |
+| **Year** | 2026 |
+| **Group** | U4125 |
+| **Author** | Kudelin Dmitry Igorevich |
+| **Lab** | Lab3 |
+| **Date of create** | 08.05.2026 |
+| **Date of finished** | 08.05.2026 |
 
 ---
 
@@ -154,7 +158,7 @@ P[GitHub Actions CI/CD] --> D
 
 ### Обоснование выбора
 
-* **Load Balancer** распределяет нагрузку между backend-инстансами.
+* **Load Balancer** распределяет нагрузку.
 * **Redis Cache** ускоряет получение цен предметов.
 * **RabbitMQ** позволяет обрабатывать задачи анализа асинхронно.
 * **Worker Nodes** выполняют параллельный анализ рынка.
